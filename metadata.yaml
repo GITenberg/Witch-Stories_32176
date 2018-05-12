@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4835
     wikipedia: http://en.wikipedia.org/wiki/Eliza_Lynn_Linton
 description: Preface -- The witches of Scotland -- The witches of England.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32176#Witch-Stories
 gutenberg_issued: '2010-04-29'
 gutenberg_type: Text
 identifiers:
